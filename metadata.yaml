@@ -1,0 +1,28 @@
+_repo: Confessions-of-an-Opera-Singer_32980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Kathleen
+    birthdate: 1884
+    deathdate: 1956
+    gutenberg_agent_id: '36140'
+    url: http://www.gutenberg.org/2009/agents/36140
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Howard
+description: ''
+gutenberg_issued: '2010-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singers -- Biography'
+- !lcsh 'Howard, Kathleen, 1884-1956'
+- !lcc 'ML'
+title: Confessions of an Opera Singer
+url: http://www.gutenberg.org/ebooks/32980
